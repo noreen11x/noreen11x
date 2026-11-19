@@ -23,6 +23,11 @@ I work across network security, cloud and AI/ML, and I like building secure, wel
 | [**Portfolio Website**](https://github.com/noreen11x/portfolio-website) | Personal portfolio with a contact API, rate limiting and email notifications | Node.js · Express · SQLite |
 | [**Online Clothing Store**](https://github.com/noreen11x/bayz) | Store management system with admin, staff and customer portals | PHP · MySQL · Bootstrap |
 
+### Shopify stores
+
+- [**Jovian Wear**](https://github.com/noreen11x/jovian-wear): Shopify store for an Egyptian knitwear brand, later rebuilt as a standalone app (Node.js, Express, MongoDB, Stripe)
+- [**Zuro**](https://github.com/noreen11x/zuro-furniture): Shopify store for a sculptural furniture brand, built from scratch
+
 ### More projects
 
 - [**Graph Search Visualizer**](https://github.com/noreen11x/graph-search-visualizer): BFS, DFS, IDS, UCS, Greedy and A* on custom graphs (Python, Tkinter)
