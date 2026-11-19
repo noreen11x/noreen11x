@@ -9,6 +9,7 @@ I work across network security, cloud and AI/ML, and I like building secure, wel
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Reservo**](https://github.com/noreen11x/reservo-website) | Startup I'm building: an event-booking marketplace (venues, photographers, catering…). Pre-launch website with waitlist, vendor applications and admin dashboard, plus a Flutter mobile app | Flutter · Supabase · Node.js · Express |
 | [**StateFuzz**](https://github.com/noreen11x/statefuzz) | Graduation project: a learning, state-aware fuzzer that finds security-rule violations in SIP servers (Kamailio) using Thompson sampling and an ML ranker | Python · scikit-learn · Docker |
 | [**AnyBook Store**](https://github.com/noreen11x/anybook-store) | Full online bookstore with storefront, checkout and an admin dashboard for books, orders, promo codes and analytics | Next.js 15 · TypeScript · Prisma · PostgreSQL |
 | [**Heaven & Home**](https://github.com/noreen11x/heaven-and-home) · [live](https://noreen11x.github.io/heaven-and-home/) | Luxury furniture e-commerce site with catalog, cart, checkout, user and admin dashboards | React · Vite · Tailwind |
