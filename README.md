@@ -17,8 +17,9 @@ I work across network security, cloud and AI/ML, and I like building secure, wel
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Reservo**](https://github.com/noreen11x/reservo-website) | Startup I'm building: an event-booking marketplace (venues, photographers, catering…). Pre-launch website with waitlist, vendor applications and admin dashboard, plus a Flutter mobile app | Flutter · Supabase · Node.js · Express |
+| [**Customer Purchase Prediction**](https://github.com/noreen11x/customer-purchase-prediction) | ML study (team leader, IEEE paper) comparing 6 classifiers on 4 e-commerce datasets | Python · scikit-learn · pandas |
 | [**AnyBook Store**](https://github.com/noreen11x/anybook-store) | Full online bookstore with storefront, checkout and an admin dashboard for books, orders, promo codes and analytics | Next.js 15 · TypeScript · Prisma · PostgreSQL |
-| [**Heaven & Home**](https://github.com/noreen11x/heaven-and-home) · [live](https://noreen11x.github.io/heaven-and-home/) | Luxury furniture e-commerce site with catalog, cart, checkout, user and admin dashboards | React · Vite · Tailwind |
+| [**Heaven & Home**](https://github.com/noreen11x/heaven-and-home) · [live](https://noreen11x.github.io/heaven-and-home/) | Luxury furniture e-commerce site with catalog, cart, checkout and dashboards, plus a full PMBOK project plan | React · Vite · Tailwind |
 | [**Portfolio Website**](https://github.com/noreen11x/portfolio-website) | Personal portfolio with a contact API, rate limiting and email notifications | Node.js · Express · SQLite |
 | [**Online Clothing Store**](https://github.com/noreen11x/bayz) | Store management system with admin, staff and customer portals | PHP · MySQL · Bootstrap |
 
