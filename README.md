@@ -23,10 +23,10 @@ I work across network security, cloud and AI/ML, and I like building secure, wel
 
 ## 🛠️ Skills
 
-**Security:** Network Security · Penetration Testing · Burp Suite · SQLMap · Kali Linux · Cloud Security · AI/ML for Security
-**Networking & Cloud:** Cisco (CCNA self-study) · Linux (Red Hat RH124) · AWS (Cloud Architecting)
-**Languages:** Python · Java · C++ · JavaScript / TypeScript · PHP · SQL
-**Web & Mobile:** React · Next.js · Node.js · Flutter · Tailwind · MySQL · PostgreSQL
+- **Security:** Network Security · Penetration Testing · Burp Suite · SQLMap · Kali Linux · Cloud Security · AI/ML for Security
+- **Networking & Cloud:** Cisco (CCNA self-study) · Linux (Red Hat RH124) · AWS (Cloud Architecting)
+- **Languages:** Python · Java · C++ · JavaScript / TypeScript · PHP · SQL
+- **Web & Mobile:** React · Next.js · Node.js · Flutter · Tailwind · MySQL · PostgreSQL
 
 ## 📜 Certifications
 
