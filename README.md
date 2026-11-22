@@ -1,6 +1,6 @@
-# Hi, I'm Noreen Farag 👋
+# Noreen Farag 
 
-**Computer Science student specializing in Cybersecurity** at Misr International University, based in New Cairo, Egypt.
+**Computer Science student specializing in Cybersecurity** at Misr International University, based in Egypt.
 I work across network security, cloud and AI/ML, and I like building secure, well-engineered software, from penetration testing labs to full-stack web apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noreen%20Farag-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noreen-farag-065312217)
